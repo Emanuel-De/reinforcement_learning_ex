@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\edeis\LRZ Sync+Share\RCI\01_Faecher\29_Reinforcement_Learning_for_Robotics_Lee_Agostini\exercise\github_repo\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
